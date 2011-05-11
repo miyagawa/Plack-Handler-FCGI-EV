@@ -21,3 +21,5 @@ LICENSE
     under the same terms as Perl itself.
 
 SEE ALSO
+    FCGI::EV Plack::Handler::AnyEvent::FCGI
+
